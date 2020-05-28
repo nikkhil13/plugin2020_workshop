@@ -1,0 +1,7 @@
+PUBLIC
+LOOKING_GLASS_V4
+LOOKING_GLASS
+upsell_xsell
+region
+handset
+Customer_ID, state, city, region_lat, region_long, state_lat, state_long, city_lat, city_long, zip_lat, zip_long, verbatims, resolution, issue_level1, issue_level2, forecast_region, mfg_samsung, handset_age_grp
